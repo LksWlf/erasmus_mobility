@@ -13,7 +13,7 @@ The Erasmus Mobility Dataset is public accessible provided by the European Union
 
 ## Method
 After loading the data from the csv file downloaded from the EU, we start by **understanding our dataset** and **checking for missing values as well as outliers** using **Pandas**. We particulary focus on the age values here, as the age of the participants is something we want to have a deeper look at. 
-To understand our data more easly and quicker, we use **seaborn** to create different plots about different participants metrics.
+To understand our data more easly and quicker, we use **Seaborn** to create different plots about different participants metrics.
 
 ## Result
 The Exploratory Data Analysis enables a view and base understand about participants data of the Erasmus+ Program by the European Union. Following the number of participants and their characteristics can help the EU to sharpen the program and keep the interest here for peopel to participate.
