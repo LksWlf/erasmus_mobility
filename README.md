@@ -12,7 +12,7 @@ In this Exploratory Data Analysis Project, we will use **Python** to answer some
 The Erasmus Mobility Dataset is public accessible provided by the European Union: https://data.europa.eu/data/datasets/erasmus-mobility-raw-data?locale=en.
 
 ## Method
-After loading the data from the csv file downloaded from the EU, we start by **understanding our dataset** and **checking for missing values as well as outliers** using **Pandas**. We particulary focus on the age values here, as the age of the participants is something we want to have a deeper look at. 
+After loading the data from the Excel file downloaded from the EU, we start by **understanding our dataset** and **checking for missing values as well as outliers** using **Pandas**. We particulary focus on the age values here, as the age of the participants is something we want to have a deeper look at. 
 To understand our data more easily and quicker, we use **Seaborn** to create plots about different participants metrics.
 
 ## Result
